@@ -1,3 +1,3 @@
-# Class Example
+# Class Ex-maple
 
-This is an exmaple for my current Experis class!
+This is an ex-maple for my current Experis class!
